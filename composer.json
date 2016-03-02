@@ -1,5 +1,5 @@
 {
-	"name": "cosenary/instagram",
+	"name": "larsemil/Instagram-PHP-API",
 	"type": "library",
 	"description": "An easy-to-use PHP Class for accessing Instagram's API.",
 	"keywords": ["instagram", "api"],
@@ -25,6 +25,11 @@
 		"branch-alias": {
 			"dev-master": "2.4-dev"
 		}
+	},
+	"source":{
+		"url": "git@github.com:larsemil/Instagram-PHP-API.git",
+		"type":"git",
+		"reference":"master"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true
